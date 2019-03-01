@@ -18,7 +18,7 @@ Escribe el codigo inicial en el archivo [my_solution.rb](my_solution.rb)
 ## Paso 2: Pruebas
 Corre las pruebas para ver que tu codigo funcione
 
-Escribe `rspec` seguido del nombre del archivo (primero.rb).
+Escribe `rspec` seguido del nombre del archivo (my_solution.rb).
 
 ```ruby
 
