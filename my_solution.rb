@@ -1,4 +1,7 @@
 #Defining Variables
+first_name = "Ozkar"
+last_name = "Beltrán"
+age = 26
 
 # Tu solucion abajo
 
